@@ -1,10 +1,7 @@
 {
     "snithexerc": {
-        "createdBy": "Owner",
-        "devices": [
-            "DEV_4bf07e5j"
-        ],
+        "createdBy": "Owner,
         "expires": "2025-11-17T20:51:13Z",
-        "maxDevices": 1
+        "maxDevices": 100
     }
 }
