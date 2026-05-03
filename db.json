@@ -3,5 +3,10 @@
         "createdBy": "Owner",
         "expires": "2026-05-18T20:51:13Z",
         "maxDevices": 100
+    },
+    "omes": {
+        "createdBy": "Owner",
+        "expires": "2026-05-18T20:51:13Z",
+        "maxDevices": 100
     }
 }
