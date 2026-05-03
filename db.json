@@ -1,45 +1,10 @@
 {
-    "Limbo": {
-        "createdBy": "P4W-WORKER-CC",
-        "devices": [
-            "DEV_6a2a31d8"
-        ],
-        "expires": "2026-11-16T17:21:21Z",
-        "maxDevices": 1
-    },
-    "LuLzSeC-GGWP": {
-        "createdBy": "dentsmamat-CCOWN",
-        "devices": [
-            "DEV_0953925324000192",
-            "DEV_83TEB8045DW2VCIN",
-            "DEV_4bf07e55",
-            "DEV_4973ab35",
-            "DEV_f0019905",
-            "DEV_vw4hbufu4dlnrspr",
-            "DEV_114563745W102425",
-            "DEV_e8e4621f",
-            "DEV_117091543E002025",
-            "DEV_G020I5087EPSRUGW",
-            "DEV_116813343B008273",
-            "DEV_JCAXGF01V1989W5",
-            "DEV_c0da7718",
-            "DEV_102752534S003153",
-            "DEV_155312558S006950",
-            "DEV_913e68390412",
-            "DEV_938ca3d5",
-            "DEV_106293738V007469",
-            "DEV_G020I5087LNTEKAW",
-            "DEV_fb5c26dc"
-        ],
-        "expires": "2026-05-04T14:34:27Z",
-        "maxDevices": 100
-    },
     "snithexerc": {
         "createdBy": "Owner",
         "devices": [
-            "DEV_4bf07e55"
+            "DEV_4bf07e5j"
         ],
-        "expires": "2026-11-17T20:51:13Z",
+        "expires": "2025-11-17T20:51:13Z",
         "maxDevices": 1
     }
 }
