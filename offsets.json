@@ -1,6 +1,6 @@
 {
   "BattleManager": {
-    "BasePtr": "0x6BEE318",
+    "BasePtr": "0x6F06DB8",
     "LocalPlayerShow": "0x50",
     "ShowPlayers": "0x78",
     "ShowMonsters": "0x80",
@@ -43,7 +43,7 @@
     "BufferOffset": "0x14"
   },
   "SystemData": {
-    "BasePtr": "0x6BB0820",
+    "BasePtr": "0x6f581a8",
     "m_RoomPlayerInfo": "0x308",
     "PtrChain1": "0xB8",
     "PtrChain2": "0x08",
@@ -67,7 +67,7 @@
     "LoginServerInfo": "0x1b0"
   },
   "LogicBattleManager": {
-    "BasePtr": "0x6C487E8",
+    "BasePtr": "0x6F60B98",
     "PtrChain1": "0xB8",
     "m_uiFrameTime": "0x19c",
     "m_dicPlayerLogic": "0xa8",
