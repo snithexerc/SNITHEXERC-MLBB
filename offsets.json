@@ -1,0 +1,87 @@
+{
+  "BattleManager": {
+    "BasePtr": "0x6F06DB8",
+    "LocalPlayerShow": "0x50",
+    "ShowPlayers": "0x78",
+    "ShowMonsters": "0x80",
+    "PtrChain1": "0xB8",
+    "PtrChain2": "0x08",
+    "ListDataOffset": "0x10",
+    "ListCountOffset": "0x18",
+    "ListArrayOffset": "0x20"
+  },
+  "ShowEntity": {
+    "iType": "0x80",
+    "Hp": "0x1ac",
+    "HpMax": "0x1b0",
+    "bDeath": "0xcd",
+    "bSameCampType": "0x2b1",
+    "vCachePosition": "0x294",
+    "HeroID": "0x194",
+    "Level": "0x198",
+    "KillWild": "0xA60",
+    "m_killNum": "0xa20",
+    "m_assistNum": "0xa24",
+    "SummonSkillId": "0x9a4",
+    "ShowEntityLayer": "0x32c",
+    "m_ShowCoolDownComp": "0x100"
+  },
+  "ShowPlayer": {
+    "HeroName": "0x468",
+    "m_EntityCampType": "0xd8",
+    "uiPlayerFov": "0x41a"
+  },
+  "Camera": {
+    "MainCameraPtr": "0x6EF4430",
+    "CameraData": "0xb8",
+    "CameraData2": "0x08",
+    "SmoothFollow": "0x10",
+    "ViewMatrix": "0x5C"
+  },
+  "String": {
+    "LengthOffset": "0x10",
+    "BufferOffset": "0x14"
+  },
+  "SystemData": {
+    "BasePtr": "0x6f581a8",
+    "m_RoomPlayerInfo": "0x308",
+    "PtrChain1": "0xB8",
+    "PtrChain2": "0x08",
+    "m_uiID": "0x318",
+    "m_rankLevelID": "0x27c"
+  },
+  "RoomData": {
+    "lUid": "0x20",
+    "iCamp": "0x30",
+    "_sName": "0x40",
+    "bRobot": "0x48",
+    "heroid": "0x4c",
+    "summonSkillId": "0x64",
+    "uiZoneId": "0x60",
+    "uiRankLevel": "0x128",
+    "iMythPoint": "0x1cc"
+  },
+  "UIRegion": {
+    "BasePtr": "0x6e4f570",
+    "PtrChain1": "0xB8",
+    "LoginServerInfo": "0x1b0"
+  },
+  "LogicBattleManager": {
+    "BasePtr": "0x6F60B98",
+    "PtrChain1": "0xB8",
+    "m_uiFrameTime": "0x19c",
+    "m_dicPlayerLogic": "0xa8",
+    "_m_eState": "0x180"
+  },
+  "ShowCoolDownComp": {
+    "_dicCD": "0x18"
+  },
+  "CoolDownData": {
+    "iSpellID": "0x10",
+    "uiCoolTime": "0x14",
+    "originalMaxCdTime": "0x18",
+    "uiStartTime": "0x1C",
+    "m_isCoolDown": "0x20",
+    "iNewCoolChangeStep": "0x24"
+  }
+}
