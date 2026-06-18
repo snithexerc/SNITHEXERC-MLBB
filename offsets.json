@@ -32,7 +32,7 @@
     "uiPlayerFov": "0x41a"
   },
   "Camera": {
-    "MainCameraPtr": "0x6EF4430",
+    "MainCameraPtr": "0x75dc470",
     "CameraData": "0xb8",
     "CameraData2": "0x08",
     "SmoothFollow": "0x10",
@@ -67,7 +67,7 @@
     "LoginServerInfo": "0x1b0"
   },
   "LogicBattleManager": {
-    "BasePtr": "0x6F60B98",
+    "BasePtr": "0x7680928",
     "PtrChain1": "0xB8",
     "m_uiFrameTime": "0x19c",
     "m_dicPlayerLogic": "0xa8",
