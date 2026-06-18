@@ -1,6 +1,6 @@
 {
   "BattleManager": {
-    "BasePtr": "0x6F06DB8",
+    "BasePtr": "0x7641E18",
     "LocalPlayerShow": "0x50",
     "ShowPlayers": "0x78",
     "ShowMonsters": "0x80",
@@ -43,7 +43,7 @@
     "BufferOffset": "0x14"
   },
   "SystemData": {
-    "BasePtr": "0x6f581a8",
+    "BasePtr": "0x75E08F0",
     "m_RoomPlayerInfo": "0x308",
     "PtrChain1": "0xB8",
     "PtrChain2": "0x08",
