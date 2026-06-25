@@ -43,7 +43,7 @@
     "BufferOffset": "0x14"
   },
   "SystemData": {
-    "BasePtr": "0x75E08F0",
+    "BasePtr": "0x7672f70",
     "m_RoomPlayerInfo": "0x308",
     "PtrChain1": "0xB8",
     "PtrChain2": "0x08",
